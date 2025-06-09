@@ -362,4 +362,4 @@ C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\Contro
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\ControleContatos.csproj.GenerateResource.cache
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\t5bnabkn98-5v1dkqyuua.gz
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\ControleContatos.sourcelink.json
-C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\koex0p0vhc-w34tc6sikh.gz
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\koex0p0vhc-y5wzuvh2kp.gz

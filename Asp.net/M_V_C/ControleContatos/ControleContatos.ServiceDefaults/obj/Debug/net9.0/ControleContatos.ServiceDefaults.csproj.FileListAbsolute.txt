@@ -10,3 +10,4 @@ C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\Contro
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.ServiceDefaults\obj\Debug\net9.0\refint\ControleContatos.ServiceDefaults.dll
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.ServiceDefaults\obj\Debug\net9.0\ControleContatos.ServiceDefaults.pdb
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.ServiceDefaults\obj\Debug\net9.0\ref\ControleContatos.ServiceDefaults.dll
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.ServiceDefaults\obj\Debug\net9.0\ControleContatos.ServiceDefaults.sourcelink.json

@@ -54,3 +54,4 @@ C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\Contro
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.AppHost\obj\Debug\net9.0\ControleContatos.AppHost.pdb
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.AppHost\obj\Debug\net9.0\ControleContatos.AppHost.genruntimeconfig.cache
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.AppHost\obj\Debug\net9.0\ref\ControleContatos.AppHost.dll
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos.AppHost\obj\Debug\net9.0\ControleContatos.AppHost.sourcelink.json

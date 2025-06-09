@@ -39,8 +39,16 @@ let table = new DataTable('#table-contatos'); {
 // ACIMA FEITO PELO PROFESSOR / BAIXO FEITO COM AUXILIO DO CHAT GPT
 
 $(document).ready(function () {
-    // Inicializa a DataTable com opções em português
-    $('#table-contatos').DataTable({
+    getDatatable('#table-contatos');
+    getDatatable('#table-usuario');
+
+    $('.close-alert').click(function () {
+        $('.alert').hide("hide");
+    });
+});
+
+function getDatatable(id) {
+    $(id).DataTable({
         "ordering": true,
         "paging": true,
         "searching": true,
@@ -51,7 +59,7 @@ $(document).ready(function () {
             "sInfoFiltered": "(Filtrar de _MAX_ total registros)",
             "sInfoPostFix": "",
             "sInfoThousands": ".",
-            "sLengthMenu": "Mostrar _MENU_ registros por pagina",
+            "sLengthMenu": "Mostrar _MENU_ registros por página",
             "sLoadingRecords": "Carregando...",
             "sProcessing": "Processando...",
             "sZeroRecords": "Nenhum registro encontrado",
@@ -68,9 +76,5 @@ $(document).ready(function () {
             }
         }
     });
+}
 
-    // Evento de fechar alerta
-    $('.close-alart').click(function () {
-        $('.alert').hide();
-    });
-});
