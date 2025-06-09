@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T04:15:06.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ControleContatos\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ControleContatos\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-09T04:11:51.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:59:59.737Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
