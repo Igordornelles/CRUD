@@ -1,0 +1,7 @@
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\orientação a objeto\orientação a objeto\obj\Debug\orientação a objeto.csproj.AssemblyReference.cache
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\orientação a objeto\orientação a objeto\obj\Debug\orientação a objeto.csproj.CoreCompileInputs.cache
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\orientação a objeto\orientação a objeto\bin\Debug\orientação a objeto.exe.config
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\orientação a objeto\orientação a objeto\bin\Debug\orientação a objeto.exe
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\orientação a objeto\orientação a objeto\bin\Debug\orientação a objeto.pdb
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\orientação a objeto\orientação a objeto\obj\Debug\orientação a objeto.exe
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\orientação a objeto\orientação a objeto\obj\Debug\orientação a objeto.pdb

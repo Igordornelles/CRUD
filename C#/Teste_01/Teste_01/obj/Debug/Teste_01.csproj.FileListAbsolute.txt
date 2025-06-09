@@ -1,0 +1,7 @@
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\C#\Teste_01\Teste_01\bin\Debug\Teste_01.exe.config
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\C#\Teste_01\Teste_01\bin\Debug\Teste_01.exe
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\C#\Teste_01\Teste_01\bin\Debug\Teste_01.pdb
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\C#\Teste_01\Teste_01\obj\Debug\Teste_01.csproj.AssemblyReference.cache
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\C#\Teste_01\Teste_01\obj\Debug\Teste_01.csproj.CoreCompileInputs.cache
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\C#\Teste_01\Teste_01\obj\Debug\Teste_01.exe
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\C#\Teste_01\Teste_01\obj\Debug\Teste_01.pdb
