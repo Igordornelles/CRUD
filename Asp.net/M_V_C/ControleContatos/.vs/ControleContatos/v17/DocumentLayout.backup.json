@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|c:\\users\\igor dornelles\\onedrive\\\u00E1rea de trabalho\\projetos\\asp.net\\m_v_c\\controlecontatos\\controlecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613601F3-C5EC-E873-557C-4F8E8DDE4EB6}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Usuario\\Index.cshtml",
               "RelativeDocumentMoniker": "ControleContatos\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Usuario\\Index.cshtml*",
-              "RelativeToolTip": "ControleContatos\\Views\\Usuario\\Index.cshtml*",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T22:59:29.03Z",
+              "WhenOpened": "2025-06-10T18:51:49.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ControleContatos\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ControleContatos\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwEwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-09T19:44:52.351Z",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ControleContatos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:40:47.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "ControleContatos\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:40:22.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "ControleContatos\\Models\\ContatoModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:40:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ControleContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:40:09.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ControleContatos\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:40:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\Igor Dornelles\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\Asp.net\\M_V_C\\ControleContatos\\ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:15:22.069Z",
               "EditorCaption": ""
             }
           ]

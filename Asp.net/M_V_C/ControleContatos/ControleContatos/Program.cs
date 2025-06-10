@@ -15,6 +15,7 @@ public class Program
          builder.AddServiceDefaults();
        
         builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
+        builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
 
         //Add services to the container.

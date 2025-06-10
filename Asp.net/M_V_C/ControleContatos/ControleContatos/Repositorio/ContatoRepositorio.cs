@@ -16,7 +16,7 @@ namespace ControleContatos.Repositorio
         {
             this._Context = bancoContexto;
         }
-        public ContatoModel ListaPorid (int id) 
+        public ContatoModel ListaPorid(int id) 
         {
             return _Context.Contatos.FirstOrDefault(x => x.Id == id);
         }
