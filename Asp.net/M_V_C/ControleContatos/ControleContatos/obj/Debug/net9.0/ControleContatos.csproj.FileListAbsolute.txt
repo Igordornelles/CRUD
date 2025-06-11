@@ -363,3 +363,7 @@ C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\Contro
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\t5bnabkn98-5v1dkqyuua.gz
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\ControleContatos.sourcelink.json
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\koex0p0vhc-y5wzuvh2kp.gz
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

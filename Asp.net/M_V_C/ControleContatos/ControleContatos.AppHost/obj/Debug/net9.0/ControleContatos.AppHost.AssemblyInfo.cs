@@ -26,7 +26,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleContatos.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39f8d8395d16559b763cb7fc8d11999d83b32fd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1f53a447a2b83c408dce9f0207f5867e9c462a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleContatos.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleContatos.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
