@@ -345,8 +345,6 @@ C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\Contro
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\v0o882iqut-muycvpuwrr.gz
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\xkin0m6tx4-87fc7y1x7t.gz
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\s3d4v9x32a-mlv21k5csn.gz
-C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\yezgyi7bg2-zcykd3ultc.gz
-C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\mrl0cncxj4-zcykd3ultc.gz
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\staticwebassets.development.json
@@ -367,3 +365,6 @@ C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\Contro
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\yezgyi7bg2-8g7mclldwf.gz
+C:\Users\Igor Dornelles\OneDrive\Área de Trabalho\Projetos\Asp.net\M_V_C\ControleContatos\ControleContatos\obj\Debug\net9.0\compressed\mrl0cncxj4-8g7mclldwf.gz
