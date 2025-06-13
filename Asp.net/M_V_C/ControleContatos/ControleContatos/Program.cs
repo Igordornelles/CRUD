@@ -1,4 +1,5 @@
 using ControleContatos.Data;
+using ControleContatos.Helper;
 using ControleContatos.Repositorio;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -10,12 +11,20 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        
+
         var builder = WebApplication.CreateBuilder(args);
-         builder.AddServiceDefaults();
-       
+        builder.AddServiceDefaults();
+
+        builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
         builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
         builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+        builder.Services.AddScoped<ISessao, Sessao>();
+
+        builder.Services.AddSession(o =>
+            {o.Cookie.HttpOnly = true;
+            o.Cookie.IsEssential = true; 
+        });
 
 
         //Add services to the container.
@@ -44,6 +53,8 @@ public class Program
 
         app.UseHttpsRedirection();
         app.UseRouting();
+
+        app.UseSession();
 
         app.UseAuthorization();
 

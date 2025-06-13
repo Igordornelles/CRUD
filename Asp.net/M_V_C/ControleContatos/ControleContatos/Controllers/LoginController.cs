@@ -1,4 +1,5 @@
-﻿using ControleContatos.Models;
+﻿using ControleContatos.Helper;
+using ControleContatos.Models;
 using ControleContatos.Repositorio;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -9,16 +10,28 @@ namespace ControleContatos.Controllers
     public class LoginController : Controller
     {
         private readonly IUsuarioRepositorio _usuarioRepositorio;
+        private readonly ISessao _sessao;
 
-        public LoginController(IUsuarioRepositorio usuarioRepositorio)
+        public LoginController(IUsuarioRepositorio usuarioRepositorio,
+                               ISessao sessao)
         {
             _usuarioRepositorio = usuarioRepositorio;
+            _sessao = sessao;
         }
 
         [HttpGet]
         public IActionResult Index()
         {
+            // Se usuário estiver loago, redireciona para a Home
+            if(_sessao.BuscarSessaoUsuario() !=null) return RedirectToAction("Index","Home");
+
             return View();
+        }
+
+        public IActionResult Sair()
+        {
+            _sessao.RemoverSessaoUsuario();
+            return RedirectToAction("Index","Logins");  
         }
 
         [HttpPost]
@@ -34,8 +47,10 @@ namespace ControleContatos.Controllers
                     {
                         if (usuario.SenhaValida(loginModel.Senha))
                         {
+                            _sessao.CrirarSessaoDoUsuario(usuario);
                             return RedirectToAction("Index", "Home");
                         }
+
                         TempData["MensagemErro"] = $"Senha do Usuário inválida. tente novamente ";
                     }
                     TempData["MensagemErro"] = $"Login ou Senha do Usuário inválida. tente novamente ";
