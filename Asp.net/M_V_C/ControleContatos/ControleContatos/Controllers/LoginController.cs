@@ -31,7 +31,7 @@ namespace ControleContatos.Controllers
         public IActionResult Sair()
         {
             _sessao.RemoverSessaoUsuario();
-            return RedirectToAction("Index","Logins");  
+            return RedirectToAction("Index","Login");  
         }
 
         [HttpPost]

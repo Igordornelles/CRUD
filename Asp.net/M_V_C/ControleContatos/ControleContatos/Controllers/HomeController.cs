@@ -1,14 +1,14 @@
-using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
+using ControleContatos.Filters;
 using ControleContatos.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
+using System.Diagnostics;
 
 namespace ControleContatos.Controllers;
+[PaginaParaUsuarioLogado] 
 
 public class HomeController : Controller
 {
-   
-
-
     public IActionResult Index()
     {
         return View();
